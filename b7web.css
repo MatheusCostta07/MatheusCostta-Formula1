@@ -1,0 +1,66 @@
+#titulo{
+    color: white;
+    background-color: aqua;
+}
+
+body{
+    background-color: #424242;
+    margin-left: 20px;
+}
+
+.link{
+    color: rgb(0, 255, 234);
+}
+
+.textinho{
+    color: aliceblue;
+    font-size: 25px;
+    border-top: 5px solid rgb(1, 255, 230);
+}
+
+.listinha{
+    color: aqua;
+}
+
+.dadospessoais{
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    border: 5px solid aliceblue;
+    border-radius: 50px;
+    padding: 20px;
+}
+
+img{
+    border: 5px solid aqua;
+    border-radius: 10px;
+    width: 500px;
+    height: 300px;
+    margin-top: 20px;
+}
+
+.dividindo{
+    margin-top: 20px;
+    border: 5px solid aqua;
+    color: aqua;
+    padding-top: 10px;
+    padding-left: 555px;
+    padding-bottom: 10px;
+    margin: 10px;
+}
+
+.boo{
+    display: block;
+    margin: auto;
+    background-color: aqua;
+    color: white ;
+    width: 150px;
+    height: 75px;
+    border: 5px solid white;
+    border-radius: 10px;
+}
+
+.botao{ 
+    text-decoration: none;
+}
+
